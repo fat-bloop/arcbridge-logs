@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-221515-kxde",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-24T14:15:15.000Z",
+      "dateEnd": "2026-04-24T15:18:42.000Z",
+      "dateLabel": "4/24/2026, 10:15:15 PM - 4/24/2026, 11:18:42 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260424-221515-kxde",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260423-211539-sg0w",
       "title": "Nyoôm, The Blöop",
       "commanders": [
