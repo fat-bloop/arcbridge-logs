@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-213441-5gn6",
+      "title": "Milk R, The Bloöp",
+      "commanders": [
+        "Milk R",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-29T13:34:41.000Z",
+      "dateEnd": "2026-04-29T14:35:43.000Z",
+      "dateLabel": "4/29/2026, 9:34:41 PM - 4/29/2026, 10:35:43 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260429-213441-5gn6",
+      "summary": {
+        "borderlandsPct": 0.23076923076923078,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260428-210117-jbak",
       "title": "The Bloöp",
       "commanders": [
