@@ -1,7 +1,31 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260515-090600-wgin",
+      "title": "A Lot Of Fellas",
+      "commanders": [
+        "A Lot Of Fellas"
+      ],
+      "dateStart": "2026-05-15T01:06:00.000Z",
+      "dateEnd": "2026-05-15T01:52:10.000Z",
+      "dateLabel": "5/15/2026, 9:06:00 AM - 5/15/2026, 9:52:10 AM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260515-090600-wgin",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20260429-213441-5gn6",
       "title": "Milk R, The Bloöp",
