@@ -4,6 +4,42 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260515-204128-et5u",
+      "title": "Its Bloop, Milk R, Obisauruus, The Bloöp",
+      "commanders": [
+        "Its Bloop",
+        "Milk R",
+        "Obisauruus",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-15T12:41:28.000Z",
+      "dateEnd": "2026-05-15T15:13:36.000Z",
+      "dateLabel": "5/15/2026, 8:41:28 PM - 5/15/2026, 11:13:36 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260515-204128-et5u",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260515-090600-wgin",
       "title": "A Lot Of Fellas",
       "commanders": [
