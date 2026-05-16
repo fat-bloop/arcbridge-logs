@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-203124-xclv",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-16T12:31:24.000Z",
+      "dateEnd": "2026-05-16T14:00:31.000Z",
+      "dateLabel": "5/16/2026, 8:31:24 PM - 5/16/2026, 10:00:31 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260516-203124-xclv",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260515-204128-et5u",
       "title": "Its Bloop, Milk R, Obisauruus, The Bloöp",
       "commanders": [
