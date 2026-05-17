@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260517-081707-cmrx",
+      "title": "Bálls Of Steel",
+      "commanders": [
+        "Bálls Of Steel"
+      ],
+      "dateStart": "2026-05-17T00:17:07.000Z",
+      "dateEnd": "2026-05-17T01:24:11.000Z",
+      "dateLabel": "5/17/2026, 8:17:07 AM - 5/17/2026, 9:24:11 AM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260517-081707-cmrx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260516-203124-xclv",
       "title": "U Milk M",
       "commanders": [
