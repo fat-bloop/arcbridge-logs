@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-210441-8odd",
+      "title": "Its Bloop, U Milk M",
+      "commanders": [
+        "Its Bloop",
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-22T13:04:41.000Z",
+      "dateEnd": "2026-05-22T14:33:50.000Z",
+      "dateLabel": "5/22/2026, 9:04:41 PM - 5/22/2026, 10:33:50 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260522-210441-8odd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260521-212501-7ajm",
       "title": "Nyoôm, The Bloöp",
       "commanders": [
