@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-213230-09qg",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-23T13:32:30.000Z",
+      "dateEnd": "2026-05-23T14:28:00.000Z",
+      "dateLabel": "5/23/2026, 9:32:30 PM - 5/23/2026, 10:28:00 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260523-213230-09qg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260523-101105-r6yx",
       "title": "Mohr Shadows",
       "commanders": [
