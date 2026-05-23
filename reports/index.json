@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-101105-r6yx",
+      "title": "Mohr Shadows",
+      "commanders": [
+        "Mohr Shadows"
+      ],
+      "dateStart": "2026-05-23T02:11:05.000Z",
+      "dateEnd": "2026-05-23T03:38:35.000Z",
+      "dateLabel": "5/23/2026, 10:11:05 AM - 5/23/2026, 11:38:35 AM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260523-101105-r6yx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260522-210441-8odd",
       "title": "Its Bloop, U Milk M",
       "commanders": [
