@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-203157-arpi",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-24T12:31:57.000Z",
+      "dateEnd": "2026-05-24T13:47:04.000Z",
+      "dateLabel": "5/24/2026, 8:31:57 PM - 5/24/2026, 9:47:04 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260524-203157-arpi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260524-080603-6y2w",
       "title": "Bálls Of Steel",
       "commanders": [
