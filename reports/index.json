@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-223215-orau",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-26T14:32:15.000Z",
+      "dateEnd": "2026-05-26T15:23:20.000Z",
+      "dateLabel": "5/26/2026, 10:32:15 PM - 5/26/2026, 11:23:20 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260526-223215-orau",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260524-203157-arpi",
       "title": "The Bloöp",
       "commanders": [
