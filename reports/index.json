@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-203704-pote",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-06T12:37:04.000Z",
+      "dateEnd": "2026-06-06T14:12:29.000Z",
+      "dateLabel": "6/6/2026, 8:37:04 PM - 6/6/2026, 10:12:29 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260606-203704-pote",
+      "summary": {
+        "borderlandsPct": 0.0625,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260604-213627-2qqs",
       "title": "Nyoôm, The Bloöp, The Nyoom",
       "commanders": [
