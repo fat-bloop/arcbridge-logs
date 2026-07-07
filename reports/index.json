@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-203826-857c",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-07-07T12:38:26.000Z",
+      "dateEnd": "2026-07-07T14:25:03.000Z",
+      "dateLabel": "7/7/2026, 8:38:26 PM - 7/7/2026, 10:25:03 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20260707-203826-857c",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260705-204048-lhmu",
       "title": "The Bloöp",
       "commanders": [
