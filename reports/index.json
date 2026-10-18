@@ -1,8 +1,52 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261018-212303-7fhe",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-18T13:23:03.000Z",
+      "dateEnd": "2026-10-18T14:23:52.242Z",
+      "dateLabel": "10/18/2026, 9:23:03 PM - 10/18/2026, 10:23:52 PM",
+      "url": "https://fat-bloop.github.io/arcbridge-logs/?report=20261018-212303-7fhe",
+      "publishedBy": "fat-bloop",
+      "summary": {
+        "borderlandsPct": 0.5882352941176471,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260802-212051-mjjn",
       "title": "The Bloöp",
